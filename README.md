@@ -1,6 +1,7 @@
 # PRJ301 - Assignment Project
 
 |Tên Project | Quản lý thư viện |
+|----------|----------|
 |Nhóm | 2 |
 |Lớp| SE1873|
 |Kỳ học| Summer 2024 |
