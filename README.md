@@ -24,7 +24,7 @@
 - Apache NetBeans 17
 - JDK 17 trở lên
 - Máy chủ Apache Tomcat 10.1.xx trở lên
-- Microsoft SQL Server 8.0 trở lên
+- Microsoft SQL Server bản 2019 và SSMS phiên bản 19 trở lên
 
 ## Tác giả Repo (không phải người tạo ra project này):
 - Họ và tên: Chu Thế Văn (a.k.a. VanCt)
