@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pc/Documents/Summer2024/PRJ301/ThuVien/web/ViewUser.jsp</file>
+            <file>file:/C:/Users/pc/Documents/Summer2024/PRJ301/ThuVien/src/java/controller/UpdateEmployee.java</file>
+            <file>file:/C:/Users/pc/Documents/Summer2024/PRJ301/ThuVien/src/java/controller/UpdateUser.java</file>
+            <file>file:/C:/Users/pc/Documents/Summer2024/PRJ301/ThuVien/src/java/controller/UpdateBook.java</file>
+        </group>
+        <group name="SWP391_Project"/>
+        <group name="PRJ301_Assignment">
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ListEmployee.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/Login.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ViewBook.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/CreateBook.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListBorrowedAdmin.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/Navbar.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/CreateBook.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/Logout.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ConfirmOTP.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ViewCategory.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ConfirmBorrow.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/model/Book.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/FeedbackUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/AddCategoryNew.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/Register.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ActionBorrow.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/UpdateEmployee.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/CategoryDAO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/BookDAO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/dbConnect/DBContext.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/CreateEmployee.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ListBorrowAdmin.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/SidebarAdmin.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/UserDAO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListBook.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/HomePageAdmin.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListProcessingUser.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListEmployee.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/BorrowerDAO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/DeleteBorrower.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListProcessingAdmin.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/Feedback.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ViewFeedback.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ErrorPage.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ViewUserByUser.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ListReturnedAdmin.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ReturnBorrower.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ListCategory.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ViewFeedback.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ResetPassword.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/DAOO.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ConfirmOTP.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/AddCategoryNew.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ViewUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/HomePageAdmin.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/HomePageUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/UpdateBook.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/service/Email.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/SearchBorrower.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/CompleteBorrower.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ViewUser.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/model/Role.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ListUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/SidebarUser.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/CreateUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/ViewBook.jsp</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/ListBorrowUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/UpdateUser.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/model/User.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/controller/Register.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/model/Category.java</file>
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/src/java/DAO/FeedbackDAO.java</file>
+        </group>
+        <group name="PRJ301_Class">
+            <file>file:/D:/Learning_Document/Term_4/PRJ301/Project/ThuVien/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
